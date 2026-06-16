@@ -68,47 +68,6 @@ Zenix introduces:
 
 ---
 
-# Tech Stack
-
-## Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-* Tailwind-ready architecture
-
-## Web3
-
-* ethers.js
-* wagmi
-* RainbowKit
-
-## Smart Contracts
-
-* Solidity
-* OpenZeppelin
-* Hardhat
-
----
-
-# Project Structure
-
-Zenix/
-│
-├── index.html
-├── style.css
-├── app.js
-├── assets/
-│   ├── logo.png
-│   ├── hero-bg.png
-│   └── icons/
-│
-├── contracts/
-├── docs/
-└── README.md
-
----
-
 # Roadmap
 
 ## Q2 2026
@@ -160,7 +119,3 @@ Zenix prioritizes security through:
 * Emergency pause system
 
 ---
-
-# License
-
-MIT License
